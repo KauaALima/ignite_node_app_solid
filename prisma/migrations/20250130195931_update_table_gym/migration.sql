@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Gym" ALTER COLUMN "phone" DROP NOT NULL;
